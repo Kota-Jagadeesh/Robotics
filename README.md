@@ -1,6 +1,6 @@
 # 2-DOF Manipulator Trajectory Optimization (PPO-RL)
 
-This project utilizes **Reinforcement Learning (RL)** — specifically the **Proximal Policy Optimization (PPO)** algorithm — to compute the optimal control strategy (torques) for a **two-degree-of-freedom (2-DOF)** robotic arm.  
+This project utilizes **Reinforcement Learning (RL)** - specifically the **Proximal Policy Optimization (PPO)** algorithm - to compute the optimal control strategy (torques) for a **two-degree-of-freedom (2-DOF)** robotic arm.  
 The goal is to efficiently move the manipulator's end-effector from its starting point to a target position while balancing multiple performance metrics.
 
 ---
