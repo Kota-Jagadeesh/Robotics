@@ -41,4 +41,4 @@ The solution is implemented in **MATLAB** using the **Reinforcement Learning Too
 4. The script will:
 
    - Initiate training.
-    - Save the results and visualizations in the working directory : )
+    - Save the results and visualizations in the working directory.
